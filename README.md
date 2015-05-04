@@ -24,11 +24,11 @@ Once you are logged in you can start adding beers, of course more than 1, you ca
 This is done with a SPA base and functional-reactive programing, if you play around you will see the power of reactivity, once an event is trigger the layout changes and the model itself is refresh without reloading the page.
 
 ## Installing the repo?
-1- download the git repository
-2- https://www.meteor.com/
-3- curl https://install.meteor.com/ | sh
-4- cd to the app folder ../themachine
-5- meteor run
+1. download the git repository
+2. https://www.meteor.com/
+3. curl https://install.meteor.com/ | sh
+4. cd to the app folder ../themachine
+5. meteor run
 
 ==========
 
