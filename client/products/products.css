@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+.prodlist{
+    height:600px;
+    overflow-x:hidden;
+    overflow-y:auto;
+}
+
+.thumbnail{
+    width:70px;
+}
