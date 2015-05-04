@@ -29,6 +29,7 @@ This is done with a SPA base and functional-reactive programing, if you play aro
 3. curl https://install.meteor.com/ | sh
 4. cd to the app folder ../themachine
 5. meteor run
+6. Ask me how I made it and what can be done further. 
 
 ==========
 
